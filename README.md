@@ -1,6 +1,6 @@
 # AddressToCoords
 
-This repository contains a Python application that uses the Google Geocoder API to convert addresses into geographical coordinates (latitude and longitude). This tool can be useful for data analysis, mapping projects, and any application needing location data.
+This repository contains a Jupyter Notebook that uses the Google Geocoder API to convert addresses into geographical coordinates (latitude and longitude). This tool can be useful for data analysis, mapping projects, and any application needing location data.
 
 ## Purpose
 
